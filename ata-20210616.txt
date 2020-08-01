@@ -1,0 +1,15 @@
+[] | Nome  | Embalagem | Unidade de medida | Estoque
+[*] | Material 1 | caixa | kg | 12
+[]| Material 2 | pet | l  | 120
+[] | Material 3 | lata| m3 |  1200
+
+
+- colocar joinha quando alguém comprar um item pelo preço apontado por outro; [no cara que informou]
+
+- divulgar apenas preço, nome do estabelecimento e coordenadas; []
+
+- falta a tabela de preço; []
+
+
+
+
