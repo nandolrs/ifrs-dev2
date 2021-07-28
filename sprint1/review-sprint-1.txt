@@ -1,0 +1,28 @@
+https://ifrs-dev2-buyer3w.herokuapp.com/local
+https://ifrs-dev2-buyer3w.herokuapp.com/unidadeMedida
+https://ifrs-dev2-buyer3w.herokuapp.com/embalagem
+https://ifrs-dev2-buyer3w.herokuapp.com/classe
+https://ifrs-dev2-buyer3w.herokuapp.com/produto
+https://ifrs-dev2-buyer3w.herokuapp.com/material
+https://ifrs-dev2-buyer3w.herokuapp.com/fichaProducao
+
+
+http://localhost:3000/local
+http://localhost:3000/unidadeMedida
+http://localhost:3000/embalagem
+http://localhost:3000/classe
+http://localhost:3000/produto
+http://localhost:3000/material
+http://localhost:3000/fichaProducao
+
+- créditos
+
+Pesquisar material
+Cadastrar material
+Pesquisar ficha de produção por produto
+Pesquisar ficha de produção por material (ingrediente)
+
+- débitos
+
+Cadastrar ficha de produção
+Pesquisar preços
